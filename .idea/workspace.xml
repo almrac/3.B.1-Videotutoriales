@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a60f4b26-1e8d-4c17-a2cf-460d9cd540ba" name="Changes" comment="[UPD] ADD tutorial 011" />
+    <list default="true" id="a60f4b26-1e8d-4c17-a2cf-460d9cd540ba" name="Changes" comment="[UPD] ADD tutorial 011">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial-01/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial-01/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,10 +39,14 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/almrac/2.b.1-paginas-videotutoriales.git&quot;,
+    &quot;url&quot;: &quot;https://github.com/almrac/3.B.1-Videotutoriales.git&quot;,
     &quot;accountId&quot;: &quot;ef92d140-9f31-4c82-b092-3b4f6f914739&quot;
   }
 }</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -51,13 +59,14 @@
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "/media/almrac/Proyectos/DAM/LENGUAJE DE MARCAS/UT3 - CSSII/3.B.1-Videotutoriales/tutorial-09/assets/images",
+    "last_opened_file_path": "/mnt/proyectos/DAM/LENGUAJE DE MARCAS/UT3 - CSSII/3.B.1-Videotutoriales",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -70,14 +79,15 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/tutorial-09/assets/images" />
     </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-c7e53b3be11b-JavaScript-PS-253.28294.345" />
-        <option value="bundled-php-predefined-a98d8de5180a-09080813851e-com.jetbrains.php.sharedIndexes-PS-253.28294.345" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PS-253.29346.151" />
+        <option value="bundled-php-predefined-a98d8de5180a-0e0d91225499-com.jetbrains.php.sharedIndexes-PS-253.29346.151" />
       </set>
     </attachedChunks>
   </component>
@@ -95,7 +105,9 @@
       <workItem from="1765409796892" duration="40000" />
       <workItem from="1765409842670" duration="3162000" />
       <workItem from="1765480567154" duration="3434000" />
-      <workItem from="1765583313399" duration="1764000" />
+      <workItem from="1765583313399" duration="1962000" />
+      <workItem from="1765585284235" duration="115000" />
+      <workItem from="1767734542484" duration="6408000" />
     </task>
     <task id="LOCAL-00001" summary="[UPD] ADD tutorial 03">
       <option name="closed" value="true" />
