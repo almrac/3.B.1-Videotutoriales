@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a60f4b26-1e8d-4c17-a2cf-460d9cd540ba" name="Changes" comment="[UPD] ADD tutorial 011">
+    <list default="true" id="a60f4b26-1e8d-4c17-a2cf-460d9cd540ba" name="Changes" comment="[UPD] update cabecera flexbox">
+      <change afterPath="$PROJECT_DIR$/tutorial-012/images/business.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tutorial-012/images/chica.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tutorial-012/images/desktop.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorial-01/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial-01/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial-012/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial-012/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +20,7 @@
     <execution />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="17" />
+    <option name="cachedIndexableFilesCount" value="28" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -66,7 +68,7 @@
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "/mnt/proyectos/DAM/LENGUAJE DE MARCAS/UT3 - CSSII/3.B.1-Videotutoriales",
+    "last_opened_file_path": "/mnt/proyectos/DAM/LENGUAJE DE MARCAS/UT3 - CSSII/3.B.1-Videotutoriales/tutorial-012",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -79,6 +81,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tutorial-012" />
+      <recent name="$PROJECT_DIR$/tutorial-011" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/tutorial-09/assets/images" />
     </key>
@@ -107,7 +111,8 @@
       <workItem from="1765480567154" duration="3434000" />
       <workItem from="1765583313399" duration="1962000" />
       <workItem from="1765585284235" duration="115000" />
-      <workItem from="1767734542484" duration="6408000" />
+      <workItem from="1767734542484" duration="7245000" />
+      <workItem from="1767913148647" duration="871000" />
     </task>
     <task id="LOCAL-00001" summary="[UPD] ADD tutorial 03">
       <option name="closed" value="true" />
@@ -181,7 +186,23 @@
       <option name="project" value="LOCAL" />
       <updated>1764979090718</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="[UPD] update project">
+      <option name="closed" value="true" />
+      <created>1767742966923</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1767742966923</updated>
+    </task>
+    <task id="LOCAL-00011" summary="[UPD] update cabecera flexbox">
+      <option name="closed" value="true" />
+      <created>1767743691093</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1767743691093</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,7 +221,9 @@
     <MESSAGE value="[UPD] ADD tutorial 09" />
     <MESSAGE value="[UPD] ADD tutorial 010" />
     <MESSAGE value="[UPD] ADD tutorial 011" />
-    <option name="LAST_COMMIT_MESSAGE" value="[UPD] ADD tutorial 011" />
+    <MESSAGE value="[UPD] update project" />
+    <MESSAGE value="[UPD] update cabecera flexbox" />
+    <option name="LAST_COMMIT_MESSAGE" value="[UPD] update cabecera flexbox" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
